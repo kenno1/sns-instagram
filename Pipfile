@@ -5,7 +5,7 @@ name = "pypi"
 
 # ここ以下を編集する
 [packages]
-django = "==2.2"
+django = "==2.2.22"
 pillow = "*"
 
 
